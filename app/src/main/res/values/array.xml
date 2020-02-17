@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="resId">
+        <item>@drawable/plant_1</item>
+        <item>@drawable/plant_2</item>
+        <item>@drawable/plant_3</item>
+        <item>@drawable/plant_4</item>
+        <item>@drawable/plant_5</item>
+        <item>@drawable/plant_6</item>
+        <item>@drawable/plant_7</item>
+        <item>@drawable/plant_8</item>
+        <item>@drawable/plant_9</item>
+        <item>@drawable/plant_10</item>
+    </integer-array>
+
+    <string-array name="title">
+        <item>croton</item>
+        <item>syngonium</item>
+        <item>moth orchid</item>
+        <item>anthurium</item>
+        <item>golden pothos</item>
+        <item>lucky bamboo</item>
+        <item>dracaena marginata</item>
+        <item>snake plant</item>
+        <item>peace lily</item>
+        <item>ponytail palm</item>
+    </string-array>
+    <string-array name="content">
+        <item>\n</item>
+        <item>\n</item>
+        <item>\n</item>
+        <item>\n</item>
+        <item>\n</item>
+        <item>\n</item>
+        <item>\n</item>
+        <item>\n</item>
+        <item>\n</item>
+        <item>\n</item>
+    </string-array>
+</resources>
