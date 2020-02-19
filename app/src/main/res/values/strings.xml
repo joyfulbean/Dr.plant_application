@@ -1,3 +1,28 @@
 <resources>
-    <string name="app_name">dr_plant4</string>
+    <string name="app_name">DR.PLANT</string>
+    <string name="d1">
+    <a href="https://www.thespruce.com/black-spot-on-roses-4125530">Treatment for black leaf rot</a>
+    </string>
+        <string name="d2">
+    <a href="https://homeguides.sfgate.com/cure-brown-leaf-disease-shrubs-87974.html">Treatment for brown leaf spot</a>
+    </string>
+        <string name="d3">
+    <a href="https://www.planetnatural.com/pest-problem-solver/plant-disease/bacterial-leaf-spot/">Treatment for bacterial leaf spot</a>
+    </string>
+        <string name="d4">
+    <a href="https://www.planetnatural.com/pest-problem-solver/plant-disease/mosaic-virus/">Treatment for mosaic virus</a>
+    </string>
+        <string name="d5">
+    <a href="http://www.saferbrand.com/articles/treat-powdery-mildew-plants">Treatment for powdery mildew</a>
+    </string>
+        <string name="d6">
+    <a href="https://www.planetnatural.com/pest-problem-solver/plant-disease/common-rust/">Treatment for rust</a>
+    </string>
+        <string name="d7">
+    <a href="https://homeguides.sfgate.com/save-sunburned-house-plants-92003.html">Treatment for sunburn</a>
+    </string>
+
+
+
+
 </resources>

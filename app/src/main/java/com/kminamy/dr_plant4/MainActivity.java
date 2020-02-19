@@ -7,9 +7,6 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ListView;
-import android.os.Bundle;
-
-import androidx.appcompat.app.AppCompatActivity;
 
 public class MainActivity extends AppCompatActivity {
     private CustomAdapter adapter;
@@ -19,6 +16,8 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        getSupportActionBar().setIcon(R.drawable.logo3);
+        getSupportActionBar().setDisplayShowHomeEnabled(true);
 
         adapter = new CustomAdapter();
         listView = (ListView)findViewById(R.id.list_view);
@@ -62,10 +61,7 @@ public class MainActivity extends AppCompatActivity {
             dto.setResId(arrResId.getResourceId(i,0));
             dto.setTitle(titles[i]);
             dto.setContent(contents[i]);
-
             adapter.addItem(dto);
         }
-
-
     }
 }
