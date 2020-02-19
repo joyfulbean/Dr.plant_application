@@ -27,9 +27,9 @@ public class ResultActivity extends AppCompatActivity {
         TextView treatText = (TextView)findViewById(R.id.treatment);
         // TextView에 설명 url 또는 아마존에서 추천 상품 가져오기
         Intent intent = getIntent();
-       // String disease = intent.getStringExtra("diseaseName");
-        //resultText.setText(disease);
-        String  disease="Brown leaf spot";
+        String disease = intent.getStringExtra("diseaseName");
+
+       // String  disease="Brown leaf spot";
         String temp, treatment;
         resultText.setText(disease);
         if (disease=="Bacterial leaf spot") {
