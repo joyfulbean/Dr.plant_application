@@ -8,21 +8,21 @@
 
 ### ****\[팀 Logo\]****
 
-[##_Image|kage@cHX8Oc/btq4DivxxDq/1m1IbQLMh91GxWASTyBik0/img.png|alignLeft|data-origin-width="658" data-origin-height="572" width="238" height="NaN" data-ke-mobilestyle="widthContent"|||_##]
+![팀logo](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcHX8Oc%2Fbtq4DivxxDq%2F1m1IbQLMh91GxWASTyBik0%2Fimg.png)
 
 ### ****\[설계 및 구현 경험\] ****
 
 ****1) 다양한 툴 경험****
 
-[##_Image|kage@bWBIHS/btq4DhwB7BC/LR4CUcQps9sNp3HUKSPIfK/img.png|alignLeft|data-filename="스크린샷 2021-05-11 오전 12.07.17.png" data-origin-width="2006" data-origin-height="962" width="595" data-ke-mobilestyle="widthContent"|||_##]
+![툴](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbWBIHS%2Fbtq4DhwB7BC%2FLR4CUcQps9sNp3HUKSPIfK%2Fimg.png)
 
 ****2) 전체 시스템 설계****
 
-[##_Image|kage@cQMAew/btq4z19oNOs/QhQtQkZIJeMy1K0tZoxIwk/img.png|alignLeft|data-filename="스크린샷 2021-05-11 오전 12.06.55.png" data-origin-width="1872" data-origin-height="918" width="607" height="NaN" data-ke-mobilestyle="widthContent"|||_##]
+![설계](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbWBIHS%2Fbtq4DhwB7BC%2FLR4CUcQps9sNp3HUKSPIfK%2Fimg.png)
 
 앱에서 사용자가 휴대폰 카메라로 병든 식물 찍음 - 서버로 사진 전송 되고, 머신러닝 결과 반환, 데이터 베이스에 저장
 
-[##_Image|kage@bRnCFS/btq4Di98nUB/4VWoYCJfkwt9kSY0NaTUY1/img.png|alignLeft|data-filename="스크린샷 2021-05-11 오전 12.07.07.png" data-origin-width="1868" data-origin-height="856" width="626" height="NaN" data-ke-mobilestyle="widthContent"|||_##]
+![설계2](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbRnCFS%2Fbtq4Di98nUB%2F4VWoYCJfkwt9kSY0NaTUY1%2Fimg.png)
 
 **데이터 베이스에서 추출해서 관리자 페이지에 사용 현황 보여주기**
 
