@@ -3,6 +3,7 @@
 #### **2020.1-2020.2**  | **딥러닝을 이용하여 병든 식물 진단기 어플리케이션 개발, 관리자 페이지 개발**
 
 ## 시연 영상: https://www.youtube.com/watch?v=v8FeIa-64ao
+## ML MODEL: https://github.com/joyfulbean/Dr.plant_ML
 
 ### ****\[인턴 경험담\]****
 
